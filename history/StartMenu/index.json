@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "StartMenu.dll",
+  "latest": "1785528508-BAC8F3B13B5B4EC7B6E68AF0E8EF8EEE-1",
+  "builds": [
+    {
+      "key": "1785528508-BAC8F3B13B5B4EC7B6E68AF0E8EF8EEE-1",
+      "timestamp": "1785528508",
+      "pdb_guid": "BAC8F3B13B5B4EC7B6E68AF0E8EF8EEE",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1785528508-BAC8F3B13B5B4EC7B6E68AF0E8EF8EEE-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
